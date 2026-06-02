@@ -39,5 +39,5 @@ Verifica la integridad de archivos PDF, detecta documentos dañados o ilegibles 
 
 Andrés Moreno
 
-Tecnólogo en Análisis y Desarrollo de Software | Automatización de procesos | PowerShell 
+| Automatización de procesos | PowerShell 
 Herramientas de automatización documental desarrolladas en PowerShell para gestión, control y validación de archivos PDF.
