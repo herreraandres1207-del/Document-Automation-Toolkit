@@ -17,6 +17,7 @@ Herramienta desarrollada en PowerShell para analizar archivos PDF y generar auto
 - PowerShell
 - Procesamiento de archivos PDF
 - Windows
+- QPDF
 
 ## Autor
 
