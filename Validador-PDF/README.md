@@ -19,6 +19,7 @@ Herramienta desarrollada en PowerShell para verificar la integridad y accesibili
 - Validación de archivos PDF
 - Automatización de procesos
 - Windows
+- QPDF
 
 ## Autor
 
